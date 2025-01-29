@@ -1,0 +1,7 @@
+__pycache__
+build
+.env
+.env.*
+*.db
+docker-compose.yml
+.vscode
